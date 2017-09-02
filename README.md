@@ -16,7 +16,7 @@ $ git clone https://github.com/obaidur-rahaman/kaggle-digit-recognizer
 
 # Data
 
-data folder contains original data
+The data folder contains original data
 
 # Repository structure
 
