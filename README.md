@@ -32,6 +32,9 @@ Different techniques and methods were applied to explore the data:
 
 4. Principle component analysis: PCA was applied to reduce the dimentionality of the features. It produced an accuracy of 0.96 in combination with MLP.
 
+5. A Convolutional Neural Network (CNN) was implemented using tensorflow. The net was trained using GPU to obtain an accuracy of 0.99185
+
+
 02-cleaning: Cleaning and preprocessing of data
 
 03-feature_engineering: Engineering new features
@@ -53,3 +56,5 @@ More details about the dataset, including algorithms that have been tried on it 
 Obaidur Rahaman
 
 Hossein Amirkhani
+
+Daniel Gordo
